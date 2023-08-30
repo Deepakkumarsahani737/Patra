@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Patra</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up_forget_password">Sign Up/Forget Password</string>
+    <string name="current_date">Current Date</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="news">News</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="toolbar">Toolbar</string>
+</resources>
